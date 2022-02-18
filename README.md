@@ -12,7 +12,7 @@ Computer Engineering at K.K. Wagh Institute of Engineering
 Education & Research, Nashik
 
 
-## 🚀 Social Media
+## 🌐 Social Media
 Connect with me if you want to collaborate, or just hang out!
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautam-bharte-1a3649200/)
