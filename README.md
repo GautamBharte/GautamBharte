@@ -12,6 +12,13 @@ Computer Engineering at K.K. Wagh Institute of Engineering
 Education & Research, Nashik
 
 
+## 🚀 Social Media
+Connect with me if you want to collaborate, or just hang out!
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gautam-bharte-1a3649200/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gautam_bharte_07/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/BharteGautam)
+
 
 <!--
 **GautamBharte/GautamBharte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
