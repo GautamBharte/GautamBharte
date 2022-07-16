@@ -4,9 +4,8 @@
 <h3>Aspirant Coder | KKWIEER '24 | Student at K. K. Wagh Institute Of Engineering(KKWIEER)</h3>
 <hr>
 
-<h4>Second Year Undergraduate Student holder in department of
-Computer Engineering at K.K. Wagh Institute of Engineering
-Education & Research, Nashik</h4>
+<h4>I am Undergraduate Student in Prepenultimate Year of Computer Engineering at K.K. Wagh Institute of Engineering Education & Research(KKWIEER), Nashik.</h4>
+<h4>Learner and Developer💻 Programming freak from Nashik I have been working with Machine Learning and Artificial Intelligence ..</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ciphercrypt&label=Profile%20views&color=0e75b6&style=flat" alt="ciphercrypt" /> </p>
 
