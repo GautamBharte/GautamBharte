@@ -30,6 +30,8 @@ Education & Research, Nashik</h4>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GautamBharte&hide=css,tex&title_color=FF5733&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" /></a>
 </div>
 <div align="center">
+<a href="https://github.com/GautamBharte/GautamBharte">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=GautamBharte&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gautam's GitHub Stats" />
+</a>
 </div>
 
