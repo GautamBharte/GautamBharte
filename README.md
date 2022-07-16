@@ -1,8 +1,9 @@
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
+
 <h2>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Gautam Bharte</h2>
 <h3>Aspirant Coder | KKWIEER '24 | Student at K. K. Wagh Institute Of Engineering(KKWIEER)</h3>
 <hr>
 
-<h3 align="center">🚀 About Me</h3>
 <h4>Second Year Undergraduate Student holder in department of
 Computer Engineering at K.K. Wagh Institute of Engineering
 Education & Research, Nashik</h4>
@@ -10,7 +11,6 @@ Education & Research, Nashik</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ciphercrypt&label=Profile%20views&color=0e75b6&style=flat" alt="ciphercrypt" /> </p>
 
 <h3 align="center">🌐 Social Media</h3>
-Connect with me if you want to collaborate, or just hang out!
 <p align="center">
   <a href="mailto:gautambharte123@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/avishkar-mohite/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
