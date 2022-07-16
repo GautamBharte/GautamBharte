@@ -10,6 +10,11 @@ Education & Research, Nashik</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ciphercrypt&label=Profile%20views&color=0e75b6&style=flat" alt="ciphercrypt" /> </p>
 
+* 🎓   Studying in penultimate year of bachelors of computer engineering at KKWIEER, Nashik.
+* 🌱   Currently learning ML,advanced DBMS.
+* 🧐   Competitive Programming,sometimes...😒 
+* 📈   Fond of finances and equity market  
+
 <h3 align="center">🌐 Social Media</h3>
 <p align="center">
   <a href="mailto:gautambharte123@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -17,9 +22,10 @@ Education & Research, Nashik</h4>
 </p>
 
 <div align="center">
-<a href=""https://github.com/GautamBharte/GautamBharte>
+<a href="https://github.com/GautamBharte/GautamBharte">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GautamBharte&hide=css,tex&title_color=FF5733&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" /></a>
-
+</div>
+<div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=GautamBharte&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gautam's GitHub Stats" />
 </div>
 
