@@ -1,15 +1,11 @@
-### Hi there 👋
+<h2>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Gautam Bharte</h2>
+<h3>Aspirant Coder | KKWIEER '24 | Student at K. K. Wagh Institute Of Engineering(KKWIEER)</h3>
+<hr>
 
-
-Hello! I'm Gautam Bharte👋
-
-Aspirant Coder | KKWIEER '24 | Student at K. K. Wagh Institute Of Engineering(KKWIEER)
-
-
-## 🚀 About Me
-Second Year Undergraduate Student holder in department of
+<h3>🚀 About Me</h3>
+<h4>Second Year Undergraduate Student holder in department of
 Computer Engineering at K.K. Wagh Institute of Engineering
-Education & Research, Nashik
+Education & Research, Nashik</h4>
 
 
 ## 🌐 Social Media
