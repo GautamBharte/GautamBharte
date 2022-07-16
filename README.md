@@ -7,7 +7,7 @@
 <h4>I am Undergraduate Student in Prepenultimate Year of Computer Engineering at K.K. Wagh Institute of Engineering Education & Research(KKWIEER), Nashik.</h4>
 <h4>Learner and Developer💻 Programming freak from Nashik I have been working with Machine Learning and Artificial Intelligence ..</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ciphercrypt&label=Profile%20views&color=0e75b6&style=flat" alt="ciphercrypt" /> </p>
+</a>
 
 * 🎓   Studying in penultimate year of bachelors of computer engineering at KKWIEER, Nashik.
 * 🌱   Currently learning ML,advanced DBMS.
@@ -20,7 +20,7 @@
 </p>
 <p align="center">
   <a href="mailto:gautambharte123@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/avishkar-mohite/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/gautam-bharte/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr/>
@@ -33,4 +33,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=GautamBharte&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gautam's GitHub Stats" />
 </a>
 </div>
+
 
